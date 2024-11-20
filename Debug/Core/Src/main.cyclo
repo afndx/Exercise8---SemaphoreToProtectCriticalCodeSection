@@ -1,0 +1,10 @@
+../Core/Src/main.c:78:5:main	1
+../Core/Src/main.c:171:6:SystemClock_Config	3
+../Core/Src/main.c:208:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:241:13:MX_GPIO_Init	1
+../Core/Src/main.c:265:6:accessSharedData	2
+../Core/Src/main.c:295:6:StartDefaultTask	1
+../Core/Src/main.c:314:6:green_led	1
+../Core/Src/main.c:340:6:red_led	1
+../Core/Src/main.c:366:6:yellow_led	1
+../Core/Src/main.c:382:6:Error_Handler	1
